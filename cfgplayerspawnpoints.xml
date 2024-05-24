@@ -23,7 +23,12 @@
 		    <max_steepness>39.999996</max_steepness>
 	    </generator_params>
 	    <generator_posbubbles>
-            <pos x="2775.800576" y="40.751432" z="1196.117334" /> <!-- Behind Prison -->
+            <pos x="2890.270576" y="3.232345" z="1158.447334" /> <!-- PrisonIsland SouthEast -->
+            <!--
+            X=West/East, Y=Height, Z=North/South
+            Add multiple spawn points by multiplying the line below & remove the comment brackets.
+            <pos x="." y="." z="." />
+            -->
         </generator_posbubbles>
     </fresh>
 </playerspawnpoints>
